@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: red;
+    text-align: center;
+}
+
+.countdown {
+    margin-top: 150px;
+    background-color: black;
+}
+
+h1 {
+    color: yellow;
+}
+
+#timer {
+    font-size: 36px;
+    font-weight: bold;
+    color: yellow;
+    margin-top: 20px;
+}
+
+.custom-button {
+    color: black;
+    background-color: white;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.custom-outline-button {
+    color: white;
+    background-color: transparent;
+    margin-top: 10px;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: white;
+    border-radius: 8px;
+    font-weight: bold;
+
+
+}
